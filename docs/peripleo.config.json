@@ -3,7 +3,7 @@
   "map_style": "./map-style-OSM.json",
   "data": [
     {
-      "name": "VisitPlus",
+      "name": "HC/HD 1768",
       "format": "LINKED_PLACES",
       "src": "./data/Peripleo_Data_1666158033.json",
       "attribution": "Historische Grenzen Mittelhessen © <a href=\"https://www.alte-grenzen-mittelhessen.de//\" target=\"_blank\"><i>Ein Projekt gefördert vom Landkreis Gießen</i></a>"
