@@ -10,6 +10,16 @@
         "title": "HC/HD 1768 No. 1",
         "scan": 3
       },
+      "types": [
+        {
+          "identifier": "wd:Q4895393",
+          "label": "landmark"
+        },
+        {
+          "identifier": "wd:Q3370053",
+          "label": "small monument"
+        }
+      ],
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -40,30 +50,22 @@
       "depictions": [
         {
           "@id": "https://s2.geograph.org.uk/geophotos/04/42/66/4426686_60ab2504.jpg",
-          "title": "Looking through the same gate as in",
+          "title": "Lorem ipsum imagines",
           "thumbnail": "https://s2.geograph.org.uk/geophotos/04/42/66/4426686_60ab2504_120x120.jpg",
           "license": "http://creativecommons.org/licenses/by-sa/2.0/",
-          "accreditation": "[4426681]], we catch the moment when three visitors stopped to look at the map of the gardens. Having just gone through the gate, they decided they had taken a wrong turn and came back through it towards us. [© Chris Downer"
+          "accreditation": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat."
         }
       ],
       "descriptions": [
         {
           "@id": "https://en.wikipedia.org/wiki/Badbury_Rings",
-          "value": "Badbury Rings is an Iron Age hill fort in east Dorset, England. It was in the territory of the Durotriges. In the Roman era a temple was located immediately west of the fort, and there was a Romano-British town known as Vindocladia a short distance to the south-west.  (...)",
+          "value": "Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat.Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
           "lang": "en"
         },
         {
           "@id": "https://en.wikipedia.org/wiki/Kingston_Lacy",
-          "value": "Kingston Lacy is a country house and estate near Wimborne Minster, Dorset, England, now owned by the National Trust. From the 17th to the late 20th centuries it was the family seat of the Bankes family, who had previously resided nearby at Corfe Castle until its destruction in the English Civil War (...)",
+          "value": "Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
           "lang": "en"
-        },
-        {
-          "@id": "https://en.wikipedia.org/wiki/Philae_obelisk",
-          "value": "The Philae obelisk is one of two obelisks found at Philae in Upper Egypt in 1815 and soon afterward acquired by William John Bankes. He noted two inscriptions on it, one in Egyptian hieroglyphs, the other in ancient Greek (...)",
-          "lang": "en"
-        },
-        {
-          "value": "A lavish family home re-imagined as a Venetian Palace in the rural Dorset countryside."
         }
       ]
     },
