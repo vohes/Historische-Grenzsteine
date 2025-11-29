@@ -838,11 +838,11 @@
 	"types": [
             {
             "identifier": "wd:Q4895393",
-            "label": "landmark"
+            "label": "Grenzstein"
         },
             {
             "identifier": "wd:Q3370053",
-            "label": "small monument"
+            "label": "Kleindenkmal"
         }
 	],
 	"geometry": {
@@ -878,7 +878,7 @@
             "title": "Lorem ipsum imagines",
             "thumbnail": "https://raw.githubusercontent.com/vohes/Historische-Grenzsteine/main/docs/data/objects/hc_hd_1768/0054/0056_thumb.jpg",
             "license": "http://creativecommons.org/licenses/by-sa/2.0/",
-            "accreditation": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat."
+            "accreditation": "Historische Grenzsteine - Landkreis Gießen"
         }
 	],
 	"descriptions": [
